@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "img":"https://www.kanavulabs.com/New-Site/images/i1.png",
+        "h4":"Our Experience",
+        "p":"Our team has an average experience of over 8 years in guiding our clients and individuals through technology and innovation.."
+    },
+    {
+        "id":2,
+        "img":"https://www.kanavulabs.com/New-Site/images/i2.png",
+        "h4":"Our Specialization",
+        "p":"Our team of experts are seasoned in their respective industries to provide acute services to cater to our clients needs."
+    },
+    {
+        "id":3,
+        "img":"https://www.kanavulabs.com/New-Site/images/i3.png",
+        "h4":"Quality and Results",
+        "p":"The team has adopted and is practicing Agile Methodologies to ensure the maintaince of code quality and design standards."
+    },
+    {
+        "id":4,
+        "img":"https://www.kanavulabs.com/New-Site/images/i4.png",
+        "h4":"Innovation and Us",
+        "p":"Our team constantly stives to deliver innovation in technology to help clients reach their atmost business potential."
+    },
+    {
+        "id":5,
+        "img":"https://www.kanavulabs.com/New-Site/images/i4.png",
+        "h4":"Customer Service",
+        "p":"Providing excellent customer service is critical to us since we are looking build long-term relationships with our clients."
+    },
+    {
+        "id":6,
+        "img":"https://www.kanavulabs.com/New-Site/images/i4.png",
+        "h4":"Trust and Security",
+        "p":"We prioritise in securing our clients data from malwares and attacts which intern helps us build trust with our client."
+    },
+    {
+        "id":7,
+        "img":"https://www.kanavulabs.com/New-Site/images/i4.png",
+        "h4":"Our Culture",
+        "p":"A startup culture that priorities the mental health of our employees to ensure atmost quality output to the client."
+    },{
+        "id":8,
+        "img":"https://www.kanavulabs.com/New-Site/images/i4.png",
+        "h4":"Timely Delivery",
+        "p":"Time is precious to us, we always make it a priority to meet client timelines and ensure ontime delivery."
+    }
+]

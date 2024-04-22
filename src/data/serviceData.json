@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "img":"https://www.kanavulabs.com/New-Site/images/i11.png",
+        "h4":"Software Consulting",
+        "p":"Our experts understand your idea, target users, and monetization strategy before offering you a range of Software Solutions."
+    },
+    {
+        "id":2,
+        "img":"https://www.kanavulabs.com/New-Site/images/i21.png",
+        "h4":"Software Development",
+        "p":"At our company, we specialize in custom software development that is designed to meet the unique needs of our clients."
+    },
+    {
+        "id":3,
+        "img":"https://www.kanavulabs.com/New-Site/images/i31.png",
+        "h4":"Maintenance & Support",
+        "p":"Our support and maintenance teams works round the clock to minimize any issues faced by the client irrespitive of the time."
+    },
+    {
+        "id":4,
+        "img":"https://www.kanavulabs.com/New-Site/images/i11.png",
+        "h4":"UI, UX & CX Design",
+        "p":"Design is a crutial construct for a business to interact with its clients and understand their need better and improve service."
+    },
+    {
+        "id":5,
+        "img":"https://www.kanavulabs.com/New-Site/images/i21.png",
+        "h4":"Service Design",
+        "p":"we are dedicated to helping our clients develop and deliver service solutions that are both efficient and effective."
+    },
+    {
+        "id":6,
+        "img":"https://www.kanavulabs.com/New-Site/images/i31.png",
+        "h4":"Creative Design",
+        "p":"Our team has the skills and experience to develop high-quality design solutions for a wide range of industries and applications."
+    },
+    {
+        "id":7,
+        "img":"https://www.kanavulabs.com/New-Site/images/i11.png",
+        "h4":"Cyber Security",
+        "p":"We offer a range of cybersecurity services that can help our clients mitigate cybersecurity risks and protect their digital assets."
+    },
+    {
+        "id":8,
+        "img":"https://www.kanavulabs.com/New-Site/images/i21.png",
+        "h4":"Metaverse",
+        "p":"We are contineously exploring ways to help our clients participate and benefit from this emerging technology."
+    },
+    {
+        "id":9,
+        "img":"https://www.kanavulabs.com/New-Site/images/i31.png",
+        "h4":"DevOps Integration",
+        "p":"Our services help clients streamline their software development process and improve collaboration between development and operations teams."
+    }
+]
